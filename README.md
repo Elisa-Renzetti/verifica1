@@ -60,7 +60,7 @@ coordina le varie fasi tramite i metodi `sleep()` e `join()`.
 
 - **Visual Paradigm Online** → per creare il diagramma UML
 
-- **JavaDoc** → per generare la documentazione automatica
+
 
   
 
