@@ -1,4 +1,4 @@
-# Produzione Bicchieri – Progetto Thread Java
+# Produzione Bicchieri – Esercitazione Thread Java
 
   
 
