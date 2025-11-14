@@ -6,6 +6,7 @@
  * del processo di produzione dei bicchieri.</p>
  *
  * @author Renzetti Elisa
+ * @version 1.0
  *
  */
 public class Stampaggio extends Thread {

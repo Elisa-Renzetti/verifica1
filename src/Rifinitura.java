@@ -1,6 +1,7 @@
 /**
  * Classe che rappresenta la fase di rifinitura dei bicchieri.
  * @author Renzetti Elisa
+ * @version 1.0
 
  */
 public class Rifinitura extends Thread {

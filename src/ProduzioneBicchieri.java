@@ -1,7 +1,8 @@
 
 /**
  * Classe principale che gestisce l’intero processo di produzione dei bicchieri.
- *
+ * @author Renzetti Elisa
+ * @version 1.0
  */
 public class ProduzioneBicchieri {
 
