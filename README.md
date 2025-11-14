@@ -1,7 +1,6 @@
 # Produzione Bicchieri – Esercitazione Thread Java
 
   
-
 ## Descrizione del progetto
 
 Questo progetto simula un semplice **processo industriale di produzione di bicchieri**
@@ -12,11 +11,7 @@ Ogni fase della lavorazione è rappresentata da un thread separato, e il program
 
 coordina le varie fasi tramite i metodi `sleep()` e `join()`.
 
-  
-
 ---
-
-  
 
 ## Struttura del progetto
 
@@ -26,11 +21,7 @@ coordina le varie fasi tramite i metodi `sleep()` e `join()`.
 
 - **ProduzioneBicchieri.java** → classe principale che coordina i thread.
 
-  
-
 ---
-
-  
 
 ## Funzionamento
 
@@ -44,12 +35,7 @@ coordina le varie fasi tramite i metodi `sleep()` e `join()`.
 
 5. Il main utilizza `join()` per sincronizzare le fasi.
 
-  
-
 ---
-
-  
-
 ##  Tecnologie utilizzate
 
 - Linguaggio: **Java**
@@ -60,14 +46,7 @@ coordina le varie fasi tramite i metodi `sleep()` e `join()`.
 
 - **Visual Paradigm Online** → per creare il diagramma UML
 
-
-
-  
-
 ---
-
-  
-
 ##  Contact
 
 Created by Renzetti Lorenzetti Elisa
